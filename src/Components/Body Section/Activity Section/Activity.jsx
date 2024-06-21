@@ -70,7 +70,7 @@ const Activity = () => {
             <small>Order a new Sticker</small>
           </div>
           <div className="duration">
-            1 hour ago
+            50 min ago
           </div>
         </div>
 
