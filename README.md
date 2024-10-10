@@ -22,6 +22,6 @@ Start the development server:
 npm start
 # Usage
 Open your browser and navigate to http://localhost:3000 to view the dashboard.
-Use the provided interfaces to manage users, products, orders, a
+Use the provided interfaces to manage users, products, orders
 
 
